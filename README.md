@@ -1,3 +1,5 @@
+> **Note:** This is a fork of [666ghj/MiroFish](https://github.com/666ghj/MiroFish) with the UI translated into English using an LLM. See [README_EN.md](./README_EN.md) for the English version.
+
 <div align="center">
 
 <img src="./static/image/MiroFish_logo_compressed.jpeg" alt="MiroFish Logo" width="75%"/>
